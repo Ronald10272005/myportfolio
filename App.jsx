@@ -59,20 +59,20 @@ function App() {
         <div className="projects">
           <div className="card">
             <img
-              src="https://cdn.prod.website-files.com/64247ee2293b8621e454f004/69ccbd2f74a9e2a171c0974b_goats-in-the-green-grass-are-eating-grass-2026-01-08-07-50-33-utc.jpg"
-              alt="Website project"
+              src="src/assets/musicplaylist.jpg"
+              alt="Music PlayList"
             />
-            <h3>My Animal Farm</h3>
-            <p>A simple page about my animals, how I take care of them, and my daily farm activities.</p>
+            <h3>Music PlayList</h3>
+            <p>A simple website where users can explore their favorite songs and enjoy music from different artists.</p>
           </div>
 
           <div className="card">
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsN0dd0H7LbfErcOqpufuCWrQkcfpWjeiZAhciyGpEXw&s=10"
-              alt="Product system"
+              src="src/assets/personalwesite.jpg"
+              alt="My Personal Website"
             />
-            <h3>My favorite Recipe</h3>
-            <p>my favorite recipes and cooking experiences, showcasing the dishes I enjoy making.</p>
+            <h3>My Personal Website</h3>
+            <p>A personal website where I share my background, skills, interests, and projects as an IT student.</p>
           </div>
         </div>
       </section>
